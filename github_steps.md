@@ -10,3 +10,5 @@ make more changes
 add to staging area
 commit to changes
 push up your changes
+
+When we make more changes we need to update the remote version to have remote access to those changes
